@@ -1,0 +1,37 @@
+{
+  "name": "kyouko",
+  "version": "0.0.1",
+  "description": "Wrapper for managing the kyouko.se api in simple and sane",
+  "main": "./lib/index.js",
+  "scripts": {
+    "fix": "standard --fix",
+    "test": "node -r dotenv/config kyouko.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tentaclenotsoft/node-kyouko.git"
+  },
+  "keywords": [
+    "kyouko",
+    "kyouko.se"
+  ],
+  "author": "tentaclesoft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tentaclenotsoft/node-kyouko/issues"
+  },
+  "homepage": "https://github.com/tentaclenotsoft/node-kyouko#readme",
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "eslint": "^7.17.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "standard": "^16.0.3"
+  }
+}
