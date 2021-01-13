@@ -1,5 +1,5 @@
+<h1 align="center">Kyouko</h1>
 <p align="center">
-  <h1 align="center">Kyouko</h1>
   <b>Wrapper for managing the <a href="https://kyouko.se/">kyouko.se</a> api in simple and sane</b>
   <br><br>
   <a href="https://npmjs.com/package/kyouko"><img src="https://img.shields.io/npm/v/kyouko?style=flat-square" alt="NPM Version"></a>
