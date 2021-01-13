@@ -1,6 +1,6 @@
 {
   "name": "kyouko",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Wrapper for managing the kyouko.se api in simple and sane",
   "main": "./lib/index.js",
   "scripts": {
